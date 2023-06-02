@@ -1,0 +1,19 @@
+D:\usuarios\alumno\escritorio\ernesio y mateo tp3\ejercicio1\ejercicio1\ejercicio1\bin\Debug\ejercicio1.exe.config
+D:\usuarios\alumno\escritorio\ernesio y mateo tp3\ejercicio1\ejercicio1\ejercicio1\bin\Debug\ejercicio1.exe
+D:\usuarios\alumno\escritorio\ernesio y mateo tp3\ejercicio1\ejercicio1\ejercicio1\bin\Debug\ejercicio1.pdb
+D:\usuarios\alumno\escritorio\ernesio y mateo tp3\ejercicio1\ejercicio1\ejercicio1\obj\Debug\ejercicio1.csprojResolveAssemblyReference.cache
+D:\usuarios\alumno\escritorio\ernesio y mateo tp3\ejercicio1\ejercicio1\ejercicio1\obj\Debug\ejercicio1.exe
+D:\usuarios\alumno\escritorio\ernesio y mateo tp3\ejercicio1\ejercicio1\ejercicio1\obj\Debug\ejercicio1.pdb
+F:\trabajos de  poyectos\trabajosss\ejercicio1\ejercicio1\ejercicio1\bin\Debug\ejercicio1.exe.config
+F:\trabajos de  poyectos\trabajosss\ejercicio1\ejercicio1\ejercicio1\obj\Debug\ejercicio1.exe
+F:\trabajos de  poyectos\trabajosss\ejercicio1\ejercicio1\ejercicio1\obj\Debug\ejercicio1.pdb
+F:\trabajos de  poyectos\trabajosss\ejercicio1\ejercicio1\ejercicio1\bin\Debug\ejercicio1.exe
+F:\trabajos de  poyectos\trabajosss\ejercicio1\ejercicio1\ejercicio1\bin\Debug\ejercicio1.pdb
+F:\trabajos de  poyectos\trabajosss\ejercicio1\ejercicio1\ejercicio1\obj\Debug\ejercicio1.csprojResolveAssemblyReference.cache
+D:\trabajos de  poyectos\trabajosss\ejercicio1\ejercicio1\ejercicio1\bin\Debug\ejercicio1.exe.config
+D:\trabajos de  poyectos\trabajosss\ejercicio1\ejercicio1\ejercicio1\bin\Debug\ejercicio1.exe
+D:\trabajos de  poyectos\trabajosss\ejercicio1\ejercicio1\ejercicio1\bin\Debug\ejercicio1.pdb
+D:\trabajos de  poyectos\trabajosss\ejercicio1\ejercicio1\ejercicio1\obj\Debug\ejercicio1.csprojAssemblyReference.cache
+D:\trabajos de  poyectos\trabajosss\ejercicio1\ejercicio1\ejercicio1\obj\Debug\ejercicio1.csproj.CoreCompileInputs.cache
+D:\trabajos de  poyectos\trabajosss\ejercicio1\ejercicio1\ejercicio1\obj\Debug\ejercicio1.exe
+D:\trabajos de  poyectos\trabajosss\ejercicio1\ejercicio1\ejercicio1\obj\Debug\ejercicio1.pdb

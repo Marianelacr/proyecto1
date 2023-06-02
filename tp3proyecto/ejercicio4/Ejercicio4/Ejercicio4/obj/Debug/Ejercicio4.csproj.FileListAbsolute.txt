@@ -1,0 +1,5 @@
+D:\usuarios\alumno\escritorio\ernesio y mateo tp3\ejercicio4\Ejercicio4\Ejercicio4\bin\Debug\Ejercicio4.exe.config
+D:\usuarios\alumno\escritorio\ernesio y mateo tp3\ejercicio4\Ejercicio4\Ejercicio4\bin\Debug\Ejercicio4.exe
+D:\usuarios\alumno\escritorio\ernesio y mateo tp3\ejercicio4\Ejercicio4\Ejercicio4\bin\Debug\Ejercicio4.pdb
+D:\usuarios\alumno\escritorio\ernesio y mateo tp3\ejercicio4\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio4.exe
+D:\usuarios\alumno\escritorio\ernesio y mateo tp3\ejercicio4\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio4.pdb
